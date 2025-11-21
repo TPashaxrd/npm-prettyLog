@@ -1,0 +1,16 @@
+{
+  "name": "@tdogan/pretty-log",
+  "version": "2.0.0",
+  "description": "Minimal gradient logger with timestamps and categories",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "logger",
+    "console",
+    "terminal",
+    "gradient",
+    "colors"
+  ],
+  "author": "Toprak",
+  "license": "MIT"
+}
