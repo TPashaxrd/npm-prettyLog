@@ -12,5 +12,8 @@
     "colors"
   ],
   "author": "Toprak",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tdogan/pretty-log": "^2.0.0"
+  }
 }
